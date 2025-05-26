@@ -1,0 +1,3 @@
+C:\Users\kubat\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\DHondt.dir/objects.a
+C:\Users\kubat\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\DHondt.dir/objects.a @CMakeFiles\DHondt.dir\objects1.rsp
+C:\Users\kubat\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\DHondt.dir/objects.a -Wl,--no-whole-archive -o DHondt.exe -Wl,--out-implib,libDHondt.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DHondt.dir\linkLibs.rsp
