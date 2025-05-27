@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/kubat/Code/School/C++/PD4-CPP/Election.cpp" "CMakeFiles/DHondt.dir/Election.cpp.obj" "gcc" "CMakeFiles/DHondt.dir/Election.cpp.obj.d"
-  "C:/Users/kubat/Code/School/C++/PD4-CPP/main.cpp" "CMakeFiles/DHondt.dir/main.cpp.obj" "gcc" "CMakeFiles/DHondt.dir/main.cpp.obj.d"
+  "C:/Users/JakubTeterycz/Documents/GitHub/PD4-CPP/Election.cpp" "CMakeFiles/DHondt.dir/Election.cpp.obj" "gcc" "CMakeFiles/DHondt.dir/Election.cpp.obj.d"
+  "C:/Users/JakubTeterycz/Documents/GitHub/PD4-CPP/main.cpp" "CMakeFiles/DHondt.dir/main.cpp.obj" "gcc" "CMakeFiles/DHondt.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

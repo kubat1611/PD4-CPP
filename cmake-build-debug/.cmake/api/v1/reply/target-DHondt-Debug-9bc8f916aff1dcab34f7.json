@@ -53,7 +53,7 @@
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "C:/Users/kubat/Documents/SFML-2.5.1/include"
+					"path" : "C:/SFML-2.5.1/include"
 				}
 			],
 			"language" : "CXX",
@@ -87,17 +87,17 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\kubat\\Documents\\SFML-2.5.1\\lib\\libsfml-graphics-d.a",
+				"fragment" : "C:\\SFML-2.5.1\\lib\\libsfml-graphics-d.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\kubat\\Documents\\SFML-2.5.1\\lib\\libsfml-window-d.a",
+				"fragment" : "C:\\SFML-2.5.1\\lib\\libsfml-window-d.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\kubat\\Documents\\SFML-2.5.1\\lib\\libsfml-system-d.a",
+				"fragment" : "C:\\SFML-2.5.1\\lib\\libsfml-system-d.a",
 				"role" : "libraries"
 			},
 			{

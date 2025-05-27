@@ -1,3 +1,3 @@
-C:/Users/kubat/Code/School/C++/PD4-CPP/cmake-build-debug/CMakeFiles/DHondt.dir
-C:/Users/kubat/Code/School/C++/PD4-CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kubat/Code/School/C++/PD4-CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/JakubTeterycz/Documents/GitHub/PD4-CPP/cmake-build-debug/CMakeFiles/DHondt.dir
+C:/Users/JakubTeterycz/Documents/GitHub/PD4-CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/JakubTeterycz/Documents/GitHub/PD4-CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
